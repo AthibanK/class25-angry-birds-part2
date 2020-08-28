@@ -1,1 +1,2 @@
-# class25-angry-birds-part2
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
